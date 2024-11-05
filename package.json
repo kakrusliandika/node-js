@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "validator": "^13.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "description": "belajar node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon readapp.js",
+    "dev": "ls",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakrusliandika/node-js.git"
+  },
+  "author": "Andika Rusli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakrusliandika/node-js/issues"
+  },
+  "homepage": "https://github.com/kakrusliandika/node-js#readme"
+}
